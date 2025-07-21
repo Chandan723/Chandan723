@@ -17,7 +17,7 @@
 <!-- About Me -->
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://chandan723.github.io/Resume_Chandan/)
+- 👨‍💻 All of my projects are available at [My Portfolio][(https://chandan-kumar-mahato-fissci2.gamma.site/)]
 
 - 📫 How to reach me: **mahatochandan66@gmail.com**
 
